@@ -18,7 +18,7 @@ body {
     height: auto;
     width: 200px;
     top: 80px;
-    margin-left: 125px;
+    margin-left: 10%;
     padding: 15px 0 25px 40px;
     display: flex;
     flex-direction: column;
@@ -51,7 +51,7 @@ body {
 .conteudo__principal {
     background-color: #ffffff;
     padding: 40px 0 25px 40px;
-    width: 625px;
+    width: 53%;
     box-shadow: 10px 5px 10px rgb(75, 73, 73);
 }
 
